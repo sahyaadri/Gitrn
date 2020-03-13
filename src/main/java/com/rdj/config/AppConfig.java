@@ -7,7 +7,7 @@ public class AppConfig
         System.out.println("Line before ALL");
         System.out.println("Git Versioning");
         System.out.println("This is second line");
-        System.out.println("Line after ALL");
+        System.out.println("Line after");
         System.out.println("Line after ALL");
         System.out.println("Line after ALL");
     }

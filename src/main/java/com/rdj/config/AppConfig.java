@@ -11,5 +11,7 @@ public class AppConfig
         System.out.println("This is fourth line");
         System.out.println("This is fifth line");
         System.out.println("Line after ALL");
+        System.out.println("Line after ALL");
+        System.out.println("Line after ALL");
     }
 }
